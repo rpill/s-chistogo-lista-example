@@ -20,3 +20,4 @@ jobs:
         uses: rpill/test-project-action@main
         with:
           project: 's-chistogo-lista'
+          verbose: true
